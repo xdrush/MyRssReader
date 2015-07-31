@@ -1,0 +1,67 @@
+[
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28",
+    "jarFileModificationDate": "2015-07-28T14:13:50+08:00",
+    "location": "/home/baina/AndroidTest/MyRssReader04/MyRssReader/libs/android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d77ef97c5800106b74180850a639bffe396a20ad",
+    "jarFileModificationDate": "2015-01-16T19:27:14+08:00",
+    "location": "/home/baina/TOOLS/android-sdk-linux/platforms/android-21/android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v7-appcompat",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "138b65a6f2bf564a0cd77af8a056dccfa161f730",
+    "jarFileModificationDate": "2015-03-10T18:42:44+08:00",
+    "location": "/home/baina/AndroidTest/MyRssReader04/appcompat_v7/libs/android-support-v7-appcompat.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "appcompat_v7",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1b4f10a1c46757de0437e4f0de2faed6f3b4926d",
+    "jarFileModificationDate": "2015-07-28T17:22:52+08:00",
+    "location": "/home/baina/AndroidTest/MyRssReader04/appcompat_v7/bin/appcompat_v7.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28",
+    "jarFileModificationDate": "2015-03-10T18:42:44+08:00",
+    "location": "/home/baina/AndroidTest/MyRssReader04/appcompat_v7/libs/android-support-v4.jar",
+    "javaRuntime": false
+  }
+]

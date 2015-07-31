@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+/home/baina/AndroidTest/MyRssReader04/.metadata/.plugins/org.eclipse.jdt.core
+3747242176.index
+3932257574.index
+1270315800.index
+1267658667.index
+3598703822.index
+1649505220.index

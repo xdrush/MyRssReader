@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left" >
+
+        <CheckBox
+    	android:id="@+id/checkbox1"
+    	android:layout_height="wrap_content"
+    	android:layout_width="wrap_content"
+    	android:text="打开应用时刷新文章列表" />
+    </RelativeLayout>
+
+    <RelativeLayout
+    	android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left" >
+
+        <TextView
+      		android:layout_width="fill_parent"
+      		android:layout_height="wrap_content"
+     		android:text="请选择字体大小："
+     		android:textSize="9pt" />
+
+		<RadioGroup
+			android:id="@+id/text_size"
+			android:layout_height="wrap_content"
+			android:layout_width="wrap_content">
+
+			<RadioButton
+                android:id="@+id/text_small"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="小" ></RadioButton>
+            <RadioButton
+                android:id="@+id/text_medium"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="中" ></RadioButton>
+            <RadioButton
+                android:id="@+id/text_big"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="大" ></RadioButton>
+		</RadioGroup>
+    </RelativeLayout>
+
+</LinearLayout>

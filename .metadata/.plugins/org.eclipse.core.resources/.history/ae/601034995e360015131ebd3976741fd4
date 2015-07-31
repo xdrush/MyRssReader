@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyRssReader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    <string name="action_refresh">刷新</string>
+    <string name="action_description">添加订阅</string>
+    <string name="delete_description">移除订阅</string>
+
+    <string name="aboutme">关于</string>
+    <string name="about_info">大家好，我是XDRush，这是我的第一个APP</string>
+
+    <string name="user">xdrush</string>
+    <string name="settings">设置</string>
+    <string name="settings_info">这里是关于设置的信息</string>
+
+</resources>

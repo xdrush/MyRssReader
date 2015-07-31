@@ -1,0 +1,7 @@
+{
+  "/home/baina/AndroidTest/MyRssReader04/appcompat_v7/libs/android-support-v7-appcompat.jar": {
+    "location": "/home/baina/AndroidTest/MyRssReader04/appcompat_v7/libs/android-support-v7-appcompat.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027/home/baina/AndroidTest/MyRssReader04/appcompat_v7/libs/android-support-v7-appcompat.jar\u0027. Neither fingerprint \u0027138b65a6f2bf564a0cd77af8a056dccfa161f730\u0027 nor symbolic name \u0027android-support-v7-appcompat\u0027 are known."
+  }
+}
